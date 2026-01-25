@@ -112,3 +112,11 @@
     opacity: 1;
 
 }
+.dropdown-list2 ul li{
+    list-style: none;
+}
+.dropdown-list2{
+    box-shadow: 0 4px 16px 0 rgba(0,0,0,.2);
+    border: 1px solid #f0f0f0;
+    border-radius: 8px;
+}
