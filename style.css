@@ -226,10 +226,15 @@ main{
 }
 .items{
     display: flex;
-    
+    align-items: center;
+    justify-content: space-between;
 }
 .thing{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     padding: 15px;
     margin: 10px;
-
+    height: 150px;
+    width: 225px;
 }
