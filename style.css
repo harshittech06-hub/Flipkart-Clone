@@ -238,3 +238,8 @@ main{
     height: 150px;
     width: 225px;
 }
+.container1{
+    background-color: white;
+    height: auto;
+    padding: 15px;
+}
